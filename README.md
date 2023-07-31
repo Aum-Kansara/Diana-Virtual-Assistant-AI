@@ -1,6 +1,7 @@
 # Diana-Virtual-Assistant-AI
 
-## To run this application follow this steps :-
+## Takes voice query as input and provides answer as voice
+## To Run this application follow this steps :-
 
 ### Step 1 : Open New Folder
 
